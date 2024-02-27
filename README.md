@@ -8,28 +8,6 @@ I'm a passionate Java and JavaScript developer with a love for creating innovati
 - 💬 Ask me about Java, JavaScript, or anything related to software development!
 - 📫 How to reach me: [My Email](mailto:deepakchawla078@gmail.com)
 
-## 🔧 Technologies & Tools
-
-Here are some of the technologies and tools I enjoy working with:
-
-### Java
-
-- Spring Boot
-- Hibernate
-- Maven
-
-### JavaScript
-
-- Node
-- Angular
-- Express
-- React
-
-### Other
-
-- Git
-- Docker
-- IntelliJ IDEA
 
 ## 🌟 Featured Projects
 
