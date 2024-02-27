@@ -1,16 +1,53 @@
-### Hi there 👋
+# Hi there! 👋 I'm Deepak Chawla
 
-<!--
-**dk-chawla/dk-chawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java and JavaScript developer with a love for creating innovative and efficient solutions. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Matrix Systems (Pvt) Ltd.
+- 💬 Ask me about Java, JavaScript, or anything related to software development!
+- 📫 How to reach me: [My Email](mailto:deepakchawla078@gmail.com)
+
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I enjoy working with:
+
+### Java
+
+- Spring Boot
+- Hibernate
+- Maven
+
+### JavaScript
+
+- Node
+- Angular
+- Express
+- React
+
+### Other
+
+- Git
+- Docker
+- IntelliJ IDEA
+
+## 🌟 Featured Projects
+
+### ScalAx
+
+ScalAx is a robust web application that capitalizes on the state-of-the-art capabilities of the Axioma Portfolio Optimizer (APO) libraries. It empowers financial advisors and investors to attain efficient portfolio optimization while ensuring the secure storage of essential inputs in the database.
+
+
+### URebal
+
+We built Universal Rebalancer as a bridge – a middle ground by providing many of the features that you’d get in an optimizer – tax efficiency and asset allocation – but with simpler, model-focused rebalancing.
+
+
+## 🤝 Let's Connect!
+
+Connect with me on platform:
+
+- [LinkedIn](https://www.linkedin.com/in/deepakchawla078/)
+
+
+Feel free to explore my repositories, and if you find anything interesting, don't hesitate to give it a ⭐️. Happy coding! 🚀
