@@ -20,6 +20,10 @@ ScalAx is a robust web application that capitalizes on the state-of-the-art capa
 
 We built Universal Rebalancer as a bridge – a middle ground by providing many of the features that you’d get in an optimizer – tax efficiency and asset allocation – but with simpler, model-focused rebalancing.
 
+### URebal Hub
+
+uRebal Hub brings together portfolios, clients, workflows, reporting, billing, and operational intelligence in one connected ecosystem. Manage portfolios with tax-aware rebalancing, household-level oversight, model management, and investment monitoring capabilities.
+
 
 ## 🤝 Let's Connect!
 
